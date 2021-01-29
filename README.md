@@ -1,3 +1,7 @@
+# 진행 프로젝트
+[2D 배틀로얄](https://github.com/Joseph-Cha/JustFight_Client)
+
+
 # 프로젝트 논의
 
 향후 맨토님과 함께하는 프로젝트 진행 내용 논의
